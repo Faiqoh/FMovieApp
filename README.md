@@ -1,7 +1,7 @@
 # FMovieApp
 
 ## A. Link File APK Release
-
+https://drive.google.com/open?id=0B5EeZPMXc7uQcEpFaC1kZzFKcUk
 
 ## B. Data Diri
 - Nama  : Faiqoh
@@ -40,3 +40,11 @@ data-datanya diambil dari The MovieDB yang pastinya menyediakan data yang akurat
 - Dapat menghapus data yang telah disimpan difavorit
 
 ## H. Screenshots Aplikasi
+![Screenshot_2017-05-14-22-21-16-00.png](https://s24.postimg.org/uj9s0jlut/Screenshot_2017-05-14-22-21-16-00.png)
+![Screenshot_2017-05-14-22-21-19-56.png](https://s16.postimg.org/t8sc8t1b9/Screenshot_2017-05-14-22-21-19-56.png)
+![Screenshot_2017-05-14-22-21-24-75.png](https://s29.postimg.org/pqtrldiuv/Screenshot_2017-05-14-22-21-24-75.png)
+![Screenshot_2017-05-14-22-21-32-14.png](https://s12.postimg.org/uoklz4eb1/Screenshot_2017-05-14-22-21-32-14.png)
+![Screenshot_2017-05-14-22-21-36-57.png](https://s9.postimg.org/hnypl0i1b/Screenshot_2017-05-14-22-21-36-57.png)
+![Screenshot_2017-05-14-22-21-40-60.png](https://s4.postimg.org/4tsrbad2l/Screenshot_2017-05-14-22-21-40-60.png)
+![Screenshot_2017-05-14-22-22-13-04.png](https://s11.postimg.org/c7shqmjdv/Screenshot_2017-05-14-22-22-13-04.png)
+![Screenshot_2017-05-14-22-22-18-69.png](https://s27.postimg.org/nkpwl2z6b/Screenshot_2017-05-14-22-22-18-69.png)
