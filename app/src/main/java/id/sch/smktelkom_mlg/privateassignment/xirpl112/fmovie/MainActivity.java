@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity
             setTitle("Now Playing");
         } else if (id == R.id.nav_watchlist) {
             fragment = new WLFragment();
-            setTitle("Watch List");
+            setTitle("Favorite Movie");
         }
 
         getSupportFragmentManager().beginTransaction()
