@@ -26,10 +26,6 @@ public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, PAdapter.IPopularAdapter, NPAdapter.INowPlayingAdapter, TRAdapter.ITopRatedAdapter, WLAdapter.IWatcListAdapter {
 
     WatchList watchList;
-    PAdapter mAdapterP;
-    NPAdapter mAdapterNP;
-    TRAdapter mAdapterTR;
-    WLAdapter mAdapter;
     ArrayList<WatchList> mList = new ArrayList<>();
 
 

@@ -62,8 +62,8 @@
             style="?android:attr/borderlessButtonStyle"
             android:layout_width="48dp"
             android:layout_height="48dp"
-            android:layout_alignParentRight="true"
             android:layout_below="@+id/textViewOverview"
+            android:layout_alignParentRight="true"
             android:layout_marginRight="16dp"
             android:tint="#757575"
             app:srcCompat="@drawable/ic_star_black_24dp" />

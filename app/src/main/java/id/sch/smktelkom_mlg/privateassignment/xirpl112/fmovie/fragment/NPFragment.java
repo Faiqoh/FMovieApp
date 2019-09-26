@@ -63,10 +63,10 @@ public class NPFragment extends Fragment {
     }
 
     private void downloadDataSources() {
-        String url = "https://api.themoviedb.org/3/movie/now_playing?api_key=c68f3a9f7fc8c2ddb8734e1b05b5d21a";
+        String url2 = "https://api.themoviedb.org/3/movie/now_playing?api_key=c68f3a9f7fc8c2ddb8734e1b05b5d21a";
 
         GsonGetRequest<NPResponse> myRequest = new GsonGetRequest<NPResponse>
-                (url, NPResponse.class, null, new Response.Listener<NPResponse>() {
+                (url2, NPResponse.class, null, new Response.Listener<NPResponse>() {
 
                     @Override
                     public void onResponse(NPResponse response) {
